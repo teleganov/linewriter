@@ -167,7 +167,7 @@ export default {
 .item.favorited {
   border-color: #dc2565;
   color: #dc2565;
-  background-color: #ffe0ea;
+  background-color: #ffeff4;
 }
 .item.favorited .item-edit {
   color: #e1bfca;
